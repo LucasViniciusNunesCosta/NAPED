@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    font-family: arial;
+}
+header > .container__menu{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+header > .container__menu > ul{
+    display: flex;
+    gap: 2rem;
+}
+header > .container__menu > ul > li{
+    list-style-type: none;
+}
+header > .container__menu > ul > li:hover{
+    border-bottom: 2px solid #8257e6;
+}
+header > .container__menu > a{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: solid 1px #8257E6;
+    color: #fff;
+    border-radius: 30px;
+    height: 28px;
+    width: 128px;
+}
