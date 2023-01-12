@@ -1,0 +1,20 @@
+.container__card{
+    background-image: url(../../assets/images/shingeki.png);
+    background-size: cover;
+    width: 338px;
+    height: 165px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px;
+    color: #fff;
+    font-family: arial;
+    font-size: 13px;
+}
+.container__card > span{
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #8257E6;
+}

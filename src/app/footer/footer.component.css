@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: arial;
+}
+footer > p:nth-child(1){
+    color: #8257E6;
+    font-size: 24px;
+}

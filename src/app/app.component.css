@@ -1,0 +1,10 @@
+.container__noticias-destaque{
+    width: 100%;
+    display: flex;
+}
+.container__noticias-destaque >.noticia-princial{
+    width: 761px;
+    height: 350px;
+}
+.container__noticias-destaque >.noticia-short{
+}
