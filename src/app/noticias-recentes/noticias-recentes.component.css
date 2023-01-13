@@ -1,0 +1,14 @@
+.container__titulo> h3{
+    color: #fff;
+    font-family: arial;
+    font-size: 24px;
+    border-bottom: solid 2px #8257E6;
+}
+.container__noticias{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 105px;
+}

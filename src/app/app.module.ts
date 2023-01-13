@@ -7,6 +7,9 @@ import { NavigationBarComponent } from './navigation-bar/navigation-bar.componen
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { CardNewComponent } from './card-new/card-new.component';
+import { CardBigComponent } from './card-big/card-big.component';
+import { NoticiasRecentesComponent } from './noticias-recentes/noticias-recentes.component';
+import { CardLongComponent } from './card-long/card-long.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { CardNewComponent } from './card-new/card-new.component';
     NavigationBarComponent,
     HeaderComponent,
     FooterComponent,
-    CardNewComponent
+    CardNewComponent,
+    CardBigComponent,
+    NoticiasRecentesComponent,
+    CardLongComponent
   ],
   imports: [
     BrowserModule,
