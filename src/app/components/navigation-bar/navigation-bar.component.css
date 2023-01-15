@@ -1,4 +1,4 @@
-.container__navigation-bar{
+.navigation-bar{
     height: 15vh;
     display: flex;
     justify-content: space-between;
@@ -6,26 +6,26 @@
     color: #fff;
     font-family: arial;
 }
-.container__navigation-bar > .container__icon{
+.navigation-bar__icon{
     color: #8257E6;
     font-size: 24px;
 }
-.container__navigation-bar > .container__menu{
+.navigation-bar__menu{
     display: flex;
     align-items: center;
     gap: 2rem;
 }
-.container__navigation-bar > .container__menu > ul{
+.navigation-bar__menu__list{
     display: flex;
     gap: 2rem;
 }
-.container__navigation-bar > .container__menu > ul > li{
+.navigation-bar__menu__list__item{
     list-style-type: none;
 }
-.container__navigation-bar > .container__menu > ul > li:hover{
+.navigation-bar__menu__list__item:hover{
     border-bottom: 2px solid #8257e6;
 }
-.container__navigation-bar > .container__menu > a{
+.navigation-bar__menu__botao{
     display: flex;
     justify-content:center;
     align-items: center;
