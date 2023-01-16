@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'card-new',
-  templateUrl: './card-new.component.html',
-  styleUrls: ['./card-new.component.css']
+  selector: 'card-small',
+  templateUrl: './card-small.component.html',
+  styleUrls: ['./card-small.component.css']
 })
 export class CardNewComponent implements OnInit {
 
