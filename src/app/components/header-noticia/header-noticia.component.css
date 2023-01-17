@@ -1,0 +1,18 @@
+.header-noticia{
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    
+}
+.header-noticia__titulo{
+    color: #fff;
+    font-size: 110px;
+}
+.header-noticia__subtitulo{
+    color: #c4c4c4;
+    font-size: 55px;   
+}
+.header-noticia__data{
+    color: #c4c4c4;
+    font-size: 18px;
+}
