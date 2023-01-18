@@ -1,8 +1,8 @@
 .card{
     background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/your-name.png);
     background-size: cover;
-    width: 338px;
-    height: 250px;
+    min-width: 338px;
+    min-height: 250px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

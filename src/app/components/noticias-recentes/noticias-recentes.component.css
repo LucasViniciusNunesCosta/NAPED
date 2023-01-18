@@ -5,10 +5,9 @@
     border-bottom: solid 2px #8257E6;
 }
 .container__noticias{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5%;
     justify-content: center;
-    gap: 3rem;
     margin-bottom: 105px;
 }

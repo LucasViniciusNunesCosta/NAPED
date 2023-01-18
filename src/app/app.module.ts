@@ -18,6 +18,7 @@ import { CardMediumComponent } from './components/cards/card-medium/card-medium.
 import { NoticiaComponent } from './pages/noticia/noticia.component';
 import { HeaderNoticiaComponent } from './components/header-noticia/header-noticia.component';
 import { NoticiaBannerComponent } from './components/noticia-banner/noticia-banner.component';
+import { AnimesComponent } from './pages/animes/animes.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { NoticiaBannerComponent } from './components/noticia-banner/noticia-bann
     CardMediumComponent,
     NoticiaComponent,
     HeaderNoticiaComponent,
-    NoticiaBannerComponent
+    NoticiaBannerComponent,
+    AnimesComponent
   ],
   imports: [
     BrowserModule,
