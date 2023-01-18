@@ -1,8 +1,8 @@
-.header-banner{
-    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../assets/images/Vidas-ao-Vento-Naoko.png);
+.noticia-banner{
+    background-image: url(../../../assets/images/Vidas-ao-Vento-Naoko.png);
     background-size: cover;
     width: 100%;
-    height: 600px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -12,7 +12,7 @@
     box-sizing: border-box;
     font-size: 24px;
 }
-.header__title{
+.noticia-banner__title{
     width: 100px;
     height: 30px;
     font-size: 18px;

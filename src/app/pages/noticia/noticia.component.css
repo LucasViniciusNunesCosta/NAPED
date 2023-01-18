@@ -1,0 +1,15 @@
+p{
+    font-size: 20px;
+    color: #C4C4C4;
+    font-family: arial;
+    line-height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.conteudo{
+    margin-bottom: 101px;
+}
+.conteudo__imagem{
+    width: 100%;
+    height: auto;
+}
