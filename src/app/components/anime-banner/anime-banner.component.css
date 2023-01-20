@@ -1,0 +1,32 @@
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    box-sizing: border-box;
+    margin-bottom: 2rem;
+    font-family: arial;
+}
+.banner__image{
+    width: 1119px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-image: linear-gradient(0.01deg, #13131F 0.01%, rgba(19, 19, 31, 0) 99.99%), url(../../../../src/assets/images/naruto-tobi.png);
+}
+.banner__informacao{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+.banner__titulo{
+    font-size: 55px;
+    margin-top: 0;
+    color: #FEFBFB;
+}
+.banner__descricao{
+    font-size: 20px;
+    margin-top: 0;
+    color: #C4C4C4;
+}

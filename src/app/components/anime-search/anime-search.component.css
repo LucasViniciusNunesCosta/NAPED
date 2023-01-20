@@ -1,0 +1,28 @@
+.search-box{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.search{
+    width: 1119px;
+    height: 60px;
+    background-color: #282830;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.search > input{
+    height: 100%;
+    width: 80%;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+}
+.search > svg{
+    fill: #989898;
+    height: 50%;
+    width: auto;
+}

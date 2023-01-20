@@ -19,6 +19,9 @@ import { NoticiaComponent } from './pages/noticia/noticia.component';
 import { HeaderNoticiaComponent } from './components/header-noticia/header-noticia.component';
 import { NoticiaBannerComponent } from './components/noticia-banner/noticia-banner.component';
 import { AnimesComponent } from './pages/animes/animes.component';
+import { AnimeBannerComponent } from './components/anime-banner/anime-banner.component';
+import { AnimeSearchComponent } from './components/anime-search/anime-search.component';
+import { AnimeCatalogoComponent } from './components/anime-catalogo/anime-catalogo.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +41,10 @@ import { AnimesComponent } from './pages/animes/animes.component';
     NoticiaComponent,
     HeaderNoticiaComponent,
     NoticiaBannerComponent,
-    AnimesComponent
+    AnimesComponent,
+    AnimeBannerComponent,
+    AnimeSearchComponent,
+    AnimeCatalogoComponent
   ],
   imports: [
     BrowserModule,
