@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-anime-catalogo',
+  selector: 'anime-catalogo',
   templateUrl: './anime-catalogo.component.html',
   styleUrls: ['./anime-catalogo.component.css']
 })
