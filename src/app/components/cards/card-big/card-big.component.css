@@ -12,12 +12,13 @@
     box-sizing: border-box;
     font-size: 24px;
 }
-.card-big__title{
+.card-big__type{
     width: 70px;
     height: 20px;
-    font-size: 14px;
+    border: none;
     text-align: center;
     border-radius: 3px;
+    color: #fff;
     background-color: #8257E6;
 }
 .card-big__description{
