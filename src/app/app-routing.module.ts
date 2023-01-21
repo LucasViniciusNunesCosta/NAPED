@@ -5,6 +5,7 @@ import { NoticiaComponent } from './pages/noticia/noticia.component';
 import {AnimesComponent} from './pages/animes/animes.component';
 import { SeriesComponent } from './pages/series/series.component';
 import { GamesComponent } from './pages/games/games.component';
+import { NotFoundComponent } from './components/not-found/not-found.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,12 @@ const routes: Routes = [
   {
     path:'games',
     component: GamesComponent
+  },
+  {path: '404',
+  component: NotFoundComponent
+  },
+  {path: '**',
+  redirectTo: '/404'
   }
 ];
 

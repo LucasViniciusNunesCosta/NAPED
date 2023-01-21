@@ -23,6 +23,7 @@ import { AnimeSearchComponent } from './components/secao-search/secao-search.com
 import { AnimeCatalogoComponent } from './components/secao-catalogo/secao-catalogo.component';
 import { SeriesComponent } from './pages/series/series.component';
 import { GamesComponent } from './pages/games/games.component';
+import { NotFoundComponent } from './components/not-found/not-found.component';
 
 @NgModule({
   declarations: [
@@ -46,7 +47,8 @@ import { GamesComponent } from './pages/games/games.component';
     AnimeSearchComponent,
     AnimeCatalogoComponent,
     SeriesComponent,
-    GamesComponent
+    GamesComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,
