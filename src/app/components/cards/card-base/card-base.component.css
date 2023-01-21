@@ -1,0 +1,36 @@
+.card{
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    color: #fff;
+    font-family: arial;
+    font-size: 13px;
+    box-sizing: border-box;
+}
+.card[typeCard="small"]{
+    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/shingeki.png);
+    width: 338px;
+    height: 165px;
+}
+.card[typeCard="medium"]{
+    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/your-name.png);
+    min-width: 338px;
+    min-height: 250px;
+}
+.card[typeCard="big"]{
+    width: 100%;
+    height: 350px;
+}
+
+.card__titulo{
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #8257E6;
+}
+.card__descricao{
+    line-height: 20px;
+}

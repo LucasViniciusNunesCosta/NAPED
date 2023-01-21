@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { NavigationBarComponent } from './components/navigation-bar/navigation-bar.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { CardNewComponent } from './components/cards/card-small/card-small.component';
+import { CardNewComponent } from './components/cards/card-base/card-base.component';
 import { CardBigComponent } from './components/cards//card-big/card-big.component';
 import { NoticiasRecentesComponent } from './components/noticias-recentes/noticias-recentes.component';
 import { CardLongComponent } from './components/cards//card-long/card-long.component';
