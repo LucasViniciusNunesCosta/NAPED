@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { CardMediumComponent } from './card-medium.component';
+import { AnimeBannerComponent } from './secao-banner.component';
 
-describe('CardMediumComponent', () => {
-  let component: CardMediumComponent;
-  let fixture: ComponentFixture<CardMediumComponent>;
+describe('AnimeBannerComponent', () => {
+  let component: AnimeBannerComponent;
+  let fixture: ComponentFixture<AnimeBannerComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ CardMediumComponent ]
+      declarations: [ AnimeBannerComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(CardMediumComponent);
+    fixture = TestBed.createComponent(AnimeBannerComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

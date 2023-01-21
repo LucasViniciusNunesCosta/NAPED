@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'anime-banner',
-  templateUrl: './anime-banner.component.html',
-  styleUrls: ['./anime-banner.component.css']
+  selector: 'secao-banner',
+  templateUrl: './secao-banner.component.html',
+  styleUrls: ['./secao-banner.component.css']
 })
 export class AnimeBannerComponent implements OnInit {
 

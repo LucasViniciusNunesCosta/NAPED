@@ -40,5 +40,6 @@
     width: 128px;
 }
 .navigation-bar__menu__botao:hover{
+    transition: .5s;
     background-color: #8257E6;
 }

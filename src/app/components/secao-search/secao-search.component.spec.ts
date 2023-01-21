@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AnimeBannerComponent } from './anime-banner.component';
+import { AnimeSearchComponent } from './secao-search.component';
 
-describe('AnimeBannerComponent', () => {
-  let component: AnimeBannerComponent;
-  let fixture: ComponentFixture<AnimeBannerComponent>;
+describe('AnimeSearchComponent', () => {
+  let component: AnimeSearchComponent;
+  let fixture: ComponentFixture<AnimeSearchComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ AnimeBannerComponent ]
+      declarations: [ AnimeSearchComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(AnimeBannerComponent);
+    fixture = TestBed.createComponent(AnimeSearchComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

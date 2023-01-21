@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'anime-search',
-  templateUrl: './anime-search.component.html',
-  styleUrls: ['./anime-search.component.css']
+  selector: 'secao-search',
+  templateUrl: './secao-search.component.html',
+  styleUrls: ['./secao-search.component.css']
 })
 export class AnimeSearchComponent implements OnInit {
 
