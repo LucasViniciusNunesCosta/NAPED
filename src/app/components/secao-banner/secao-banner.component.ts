@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'secao-banner',
@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./secao-banner.component.css']
 })
 export class AnimeBannerComponent implements OnInit {
+
+  @Input() BannerTitle:string="";
 
   constructor() { }
 

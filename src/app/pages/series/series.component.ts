@@ -9,6 +9,8 @@ export class SeriesComponent implements OnInit {
 
   constructor() { }
 
+  Titulo : string= "Series"
+
   ngOnInit(): void {
   }
 
