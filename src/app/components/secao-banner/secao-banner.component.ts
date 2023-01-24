@@ -8,7 +8,7 @@ import { Component, Input, OnInit } from '@angular/core';
 export class AnimeBannerComponent implements OnInit {
 
   @Input() BannerTitle:string="";
-
+  @Input() backgroundImageUrl: string = "";
   constructor() { }
 
   ngOnInit(): void {

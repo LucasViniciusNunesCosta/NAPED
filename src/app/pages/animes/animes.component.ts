@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AnimesComponent implements OnInit {
 
   Titulo: string = "Animes"
-
+  Banner: string = "../../../assets/images/naruto-tobi.png"
   constructor() { }
 
   ngOnInit(): void {

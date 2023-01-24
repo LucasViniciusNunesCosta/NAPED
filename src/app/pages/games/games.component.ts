@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class GamesComponent implements OnInit {
 
   Titulo: string = "Games"
+  Banner: string = "../../../assets/images/ffxv.webp"
 
   constructor() { }
 

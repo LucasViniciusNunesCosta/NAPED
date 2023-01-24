@@ -10,6 +10,7 @@ export class SeriesComponent implements OnInit {
   constructor() { }
 
   Titulo : string= "Series"
+  Banner: string="../../../assets/images/the-witcher.webp"
 
   ngOnInit(): void {
   }
