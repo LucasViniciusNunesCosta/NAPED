@@ -9,6 +9,15 @@ export class CardNewComponent implements OnInit {
 
   @Input() typeCard: 'small' | 'medium' | 'big' = 'small'
 
+  @Input()
+  ImagemFundo: string =""
+
+  @Input()
+  TipoGenero: string =""
+
+  @Input()
+  Descricao: string =""
+
   constructor() { }
 
   ngOnInit(): void {

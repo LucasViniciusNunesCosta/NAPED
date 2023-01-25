@@ -1,0 +1,40 @@
+{
+    "noticias-recentes":[
+        {
+            "id": 1,
+            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+            "tipo": "Anime",
+            "descricao": "O anime mais esperado do ano"
+        },
+        {
+            "id": 2,
+            "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
+            "tipo": "Fimes",
+            "descricao": "Cena pós credito do filme"
+        },
+        {
+            "id": 3,
+            "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
+            "tipo": "Games",
+            "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
+        },
+        {
+            "id": 4,
+            "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
+            "tipo": "Fimes",
+            "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
+        },
+        {
+            "id": 5,
+            "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
+            "tipo": "Anime",
+            "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
+        },
+        {
+            "id": 6,
+            "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
+            "tipo": "Games",
+            "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
+        }
+    ]
+}

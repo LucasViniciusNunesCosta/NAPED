@@ -1,9 +1,6 @@
 <a [routerLink]="['/noticia']">
-  <div class="card" [attr.typeCard]="typeCard">
-    <button class="card__type">Lorem</button>
-    <p class="card__descricao">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
-      tellus, malesuada et velit in, blandit molestie dolor.
-    </p>
+  <div class="card" [attr.typeCard]="typeCard" [style.background-image]="'url(' + ImagemFundo + ')'">
+    <button class="card__type">{{TipoGenero}}</button>
+    <p class="card__descricao">{{Descricao}}</p>
   </div>
 </a>

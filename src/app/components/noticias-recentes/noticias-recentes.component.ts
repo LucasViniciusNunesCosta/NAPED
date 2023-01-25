@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import data_notices from "../../../assets/data/data_notices.json"
 
 @Component({
   selector: 'noticias-recentes',
@@ -7,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NoticiasRecentesComponent implements OnInit {
 
+  notices: any = data_notices['noticias-recentes'];
+ 
   constructor() { }
 
   ngOnInit(): void {
