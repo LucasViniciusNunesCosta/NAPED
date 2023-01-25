@@ -9,21 +9,21 @@ a{
     padding: 10px;
     color: #fff;
     font-family: arial;
-    font-size: 13px;
+    font-size: 15px;
     box-sizing: border-box;
 }
 .card[typeCard="small"]{
-    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/shingeki.png);
+    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%);
     width: 338px;
     height: 165px;
 }
 .card[typeCard="medium"]{
-    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/your-name.png);
+    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%);
     min-width: 338px;
     min-height: 250px;
 }
 .card[typeCard="big"]{
-    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%), url(../../../../assets/images/the-walking.png);
+    background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%);
     width: 60vw;
     height: 350px;
 }

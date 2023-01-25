@@ -2,5 +2,5 @@
     <h3>Notícias mais recentes</h3>
 </div>
 <div class="container__noticias">
-    <card-base class="noticia-short" typeCard="medium" *ngFor="let card of notices; let i = index" [TipoGenero]="notices[i].tipo" [Descricao]="notices[i].descricao" [ImagemFundo]="notices[i].imagem"></card-base>
+    <card-base class="noticia-short" typeCard="medium" *ngFor="let card of notices; let i = index" [TipoGenero]="card.tipo" [Descricao]="card.descricao" [ImagemFundo]="card.imagem"></card-base>
 </div>
