@@ -1,7 +1,6 @@
 <div class="noticias-principais">
     <card-big></card-big>
     <div class="noticias-principais__shorts">
-      <card-base class="noticia-short" typeCard="small"></card-base>
-      <card-base class="noticia-short" typeCard="small"></card-base>
+      <card-base class="noticia-short" typeCard="small" *ngFor="let card of noticias_principais; let i = index" [TipoGenero]="card.tipo" [Descricao]="card.descricao" [ImagemFundo]="card.imagem"></card-base>
     </div>
   </div>
