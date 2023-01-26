@@ -1,17 +1,11 @@
 <div class="card">
-  <div class="card__imagem">
-    <button class="card__imagem__type">Lorem</button>
+  <div class="card__imagem" [style.background-image]="'url(' + ImagemFundo + ')'">
+    <button class="card__imagem__type">{{TipoGenero}}</button>
   </div>
   <div class="card__informacao">
-    <p class="card__titulo">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />
-      eros tellus, malesuada et velit in, blandit molestie dolor.
-    </p>
-    <p class="card__descricao">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />
-      eros tellus, malesuada et velit in, blandit molestie dolor...
-    </p>
-    <span class="card__data">00/00/0000</span>
+    <p class="card__titulo">{{Titulo}}</p>
+    <p class="card__descricao">{{Descricao}}</p>
+    <span class="card__data">{{Data}}</span>
     <a class="card__botao" href="#">Ler Noticia</a>
   </div>
 </div>
