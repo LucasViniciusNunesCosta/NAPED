@@ -1,6 +1,4 @@
 <div class="noticias-laterais">
     <h2 class="noticias-laterais__titulo">Noticias Laterais</h2>
-    <card-base class="noticia-short" typeCard="medium"></card-base>
-    <card-base class="noticia-short" typeCard="medium"></card-base>
-    <card-base class="noticia-short" typeCard="medium"></card-base>
+    <card-base class="noticia-short" typeCard="medium" *ngFor="let card of noticias_recentes; let i = index" [TipoGenero]="card.tipo" [Descricao]="card.descricao" [ImagemFundo]="card.imagem"></card-base>
   </div>
