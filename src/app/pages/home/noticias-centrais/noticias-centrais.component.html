@@ -1,12 +1,11 @@
 <div class="noticias-centrais">
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
-    <card-long class="noticias-centrais__item"></card-long>
+  <card-long
+    class="noticias-centrais__item"
+    *ngFor="let card of noticias_centrais"
+    [ImagemFundo]="card.imagem"
+    [TipoGenero]="card.tipo"
+    [Titulo]="card.titulo"
+    [Descricao]="card.descricao"
+    [Data]="card.data"
+  ></card-long>
 </div>
