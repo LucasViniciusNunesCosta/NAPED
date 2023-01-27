@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'secao-catalogo',
@@ -7,7 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AnimeCatalogoComponent implements OnInit {
 
-  constructor() { }
+  @Input()
+  secaoSelecionada: any = ""
+
+  constructor() {
+    console.log(this.secaoSelecionada)
+   }
 
   ngOnInit(): void {
   }
