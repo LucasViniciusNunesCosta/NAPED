@@ -59,16 +59,28 @@
     ],
     "noticias-principais":[
         {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
-            "tipo": "Anime",
-            "descricao": "O manga underground do motossera ganhou adaptação em anime"
-        },
-        {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
-            "tipo": "Fimes",
-            "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
+            "primaria":[
+                {
+                    "id": 1,
+                    "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+                    "tipo": "Anime",
+                    "descricao": "O manga underground do motossera ganhou adaptação em anime"
+                }
+            ],
+            "secundarias":[
+                {
+                    "id": 1,
+                    "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+                    "tipo": "Anime",
+                    "descricao": "O manga underground do motossera ganhou adaptação em anime"
+                },
+                {
+                    "id": 2,
+                    "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
+                    "tipo": "Fimes",
+                    "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
+                }
+            ]
         }
     ],
     "noticias-centrais":[

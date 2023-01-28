@@ -7,7 +7,6 @@ import { NavigationBarComponent } from './components/navigation-bar/navigation-b
 import { HeaderComponent } from './pages/home/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { CardNewComponent } from './components/cards/card-base/card-base.component';
-import { CardBigComponent } from './components/cards//card-big/card-big.component';
 import { NoticiasRecentesComponent } from './components/noticias-recentes/noticias-recentes.component';
 import { CardLongComponent } from './components/cards//card-long/card-long.component';
 import { HomeComponent } from './pages/home/home.component';
@@ -32,7 +31,6 @@ import { NotFoundComponent } from './components/not-found/not-found.component';
     HeaderComponent,
     FooterComponent,
     CardNewComponent,
-    CardBigComponent,
     NoticiasRecentesComponent,
     CardLongComponent,
     HomeComponent,
