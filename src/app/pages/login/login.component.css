@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+    width: 30vw;
+    border-radius: 10px;
+    background-color: azure;
+}
+.login__titulo{
+    font-family: arial;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #8257E6;
+}
+.login__campos{
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+}
+.login__label{
+    font-family: arial;
+}
+.login__input-email{
+    border: none;
+    border-bottom: solid 1px gray;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+.login__input-senha {
+    border: none;
+    border-bottom: solid 1px gray;
+    background-color: transparent;
+}
+.login__botoes{
+    display: flex;
+    gap: 1rem;
+}
+.login__btn{
+    width: 5rem;
+    height: 2rem;
+    border: none;
+    border-radius: 5px;
+}
+.btn-entrar{
+    background-color: #8257E6;
+    color: #fff;
+}
+.btn-registrar{
+    background-color: #bcbcbc;
+    color: #fff;
+}

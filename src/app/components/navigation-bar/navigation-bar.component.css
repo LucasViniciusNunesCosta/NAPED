@@ -38,6 +38,7 @@
     border-radius: 30px;
     height: 28px;
     width: 128px;
+    text-decoration: none;
 }
 .navigation-bar__menu__botao:hover{
     transition: .5s;

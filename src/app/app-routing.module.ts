@@ -6,6 +6,7 @@ import {AnimesComponent} from './pages/animes/animes.component';
 import { SeriesComponent } from './pages/series/series.component';
 import { GamesComponent } from './pages/games/games.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
+import { LoginComponent } from './pages/login/login.component';
 
 const routes: Routes = [
   {
@@ -27,6 +28,9 @@ const routes: Routes = [
   {
     path:'games',
     component: GamesComponent
+  },
+  {path: 'login',
+  component: LoginComponent
   },
   {path: '404',
   component: NotFoundComponent
