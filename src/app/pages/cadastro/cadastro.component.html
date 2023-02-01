@@ -1,0 +1,23 @@
+<navigation-bar></navigation-bar>
+<div class="container">
+  <div class="cadastro__container">
+    <h2 class="cadastro__titulo">Cadastro</h2>
+    <div class="cadastro__campos">
+      <label for="nome" class="cadastro__label">Nome:</label>
+      <input class="cadastro__input-nome" type="text" id="nome" />
+
+      <label for="idade" class="cadastro__label">Idade:</label>
+      <input class="cadastro__input-idade" type="number" id="idade" />
+
+      <label for="email" class="cadastro__label">Email:</label>
+      <input class="cadastro__input-email" type="email" id="email" />
+
+      <label for="senha" class="cadastro__label">Senha:</label>
+      <input class="cadastro__input-senha" type="password" id="senha" />
+    </div>
+    <div class="cadastro__botoes">
+      <button class="cadastro__btn btn-cancelar" [routerLink]="['/']">Cancelar</button>
+      <button class="cadastro__btn btn-cadastrar">Cadastrar</button>
+    </div>
+  </div>
+</div>

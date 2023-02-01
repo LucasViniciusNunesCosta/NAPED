@@ -7,6 +7,7 @@ import { SeriesComponent } from './pages/series/series.component';
 import { GamesComponent } from './pages/games/games.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 import { LoginComponent } from './pages/login/login.component';
+import { CadastroComponent } from './pages/cadastro/cadastro.component';
 
 const routes: Routes = [
   {
@@ -31,6 +32,9 @@ const routes: Routes = [
   },
   {path: 'login',
   component: LoginComponent
+  },
+  {path: 'cadastro',
+  component: CadastroComponent
   },
   {path: '404',
   component: NotFoundComponent

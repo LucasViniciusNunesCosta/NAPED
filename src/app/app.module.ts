@@ -24,6 +24,7 @@ import { SeriesComponent } from './pages/series/series.component';
 import { GamesComponent } from './pages/games/games.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 import { LoginComponent } from './pages/login/login.component';
+import { CadastroComponent } from './pages/cadastro/cadastro.component';
 
 @NgModule({
   declarations: [
@@ -48,7 +49,8 @@ import { LoginComponent } from './pages/login/login.component';
     SeriesComponent,
     GamesComponent,
     NotFoundComponent,
-    LoginComponent
+    LoginComponent,
+    CadastroComponent
   ],
   imports: [
     BrowserModule,
