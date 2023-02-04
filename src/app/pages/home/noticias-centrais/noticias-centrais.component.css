@@ -1,9 +1,10 @@
 .noticias-centrais {
   overflow-y: scroll;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   margin-right: 1rem;
   max-height: 60rem;
+  width: 60vw;
 }
 ::-webkit-scrollbar {
   width: .75rem;

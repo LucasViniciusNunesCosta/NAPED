@@ -1,9 +1,11 @@
 .card{
     display: flex;
+    flex-wrap: nowrap;
     align-items: center;
     gap: 1rem;
     box-sizing: border-box;
     margin-bottom: 2rem;
+    width: 100%;
 }
 .card__imagem{
     width: 200px;

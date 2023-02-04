@@ -38,6 +38,13 @@
     background-color: transparent;
     width: 30%;
     margin-bottom: 14px;
+    border-radius: 2px;
+}
+.cadastro__input-idade:out-of-range{
+    border: 1px solid #F31D2F;
+}
+.cadastro__input-idade:active{
+    border: 1px solid #8257E6;
 }
 .cadastro__botoes{
     display: flex;
