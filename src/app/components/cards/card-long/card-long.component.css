@@ -8,8 +8,10 @@
     width: 100%;
 }
 .card__imagem{
-    width: 200px;
-    height: 151px;
+    min-width: 200px;
+    width: 15vw;
+    min-height: 151px;
+    height: 20vh;
     padding: 10px;
     box-sizing: border-box;
     background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0) 100%);
