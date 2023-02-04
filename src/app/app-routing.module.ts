@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './pages/home/home.component';
 import { NoticiaComponent } from './pages/noticia/noticia.component';
 import {AnimesComponent} from './pages/animes/animes.component';
-import { SeriesComponent } from './pages/series/series.component';
+import { SeriesComponent } from './pages/filmes/filmes.component';
 import { GamesComponent } from './pages/games/games.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 import { LoginComponent } from './pages/login/login.component';
@@ -23,7 +23,7 @@ const routes: Routes = [
     component: AnimesComponent
   },
   {
-    path:'series',
+    path:'filmes',
     component: SeriesComponent
   },
   {
