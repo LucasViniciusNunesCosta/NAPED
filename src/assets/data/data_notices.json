@@ -1,280 +1,310 @@
 {
-    "noticias-recentes":[
+  "noticias-recentes": [
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+      "tipo": "Anime",
+      "descricao": "O manga underground do motossera ganhou adaptação em anime"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
+      "tipo": "Filmes",
+      "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
+    },
+    {
+      "id": 3,
+      "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
+      "tipo": "Games",
+      "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
+    },
+    {
+      "id": 4,
+      "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
+      "tipo": "Filmes",
+      "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
+    },
+    {
+      "id": 5,
+      "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
+      "tipo": "Anime",
+      "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
+    },
+    {
+      "id": 6,
+      "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
+      "tipo": "Games",
+      "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
+    }
+  ],
+  "noticias-laterais": [
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/YbC_EL_o0ZcCMf068loNRWl72mz10jKOkkE27yfibT0/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9zb21v/c2t1ZGFzYWkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL3BvcnRhZGFf/a2ltZXRzdS0xMDcu/anBn",
+      "tipo": "Anime",
+      "descricao": "Kimetsu no yaiba ganha imagem promocional da terceira temporada"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/MoC8RtW4VJEleThiYf1ON4ktsvtg-PgySGQ_xcyE6ts/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8z/UXFYUm84d2l1by9t/YXhyZXNkZWZhdWx0/LmpwZw",
+      "tipo": "Filmes",
+      "descricao": "Homem Aranha sem volta para casa é indicado ao oscar"
+    },
+    {
+      "id": 3,
+      "imagem": "https://mundoconectado.com.br/uploads/2022/03/16/23924/guardioes-da-galaxia-vol-3-imagem-reproducao-marvel-studios.jpg",
+      "tipo": "Filmes",
+      "descricao": "Guardiões da Galaxina volume 3 - Previsão de lançamento em Maio de 2023"
+    }
+  ],
+  "noticias-principais": [
+    {
+      "primaria": [
         {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
-            "tipo": "Anime",
-            "descricao": "O manga underground do motossera ganhou adaptação em anime"
-        },
-        {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
-            "tipo": "Fimes",
-            "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
-        },
-        {
-            "id": 3,
-            "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
-            "tipo": "Games",
-            "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
-        },
-        {
-            "id": 4,
-            "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
-            "tipo": "Fimes",
-            "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
-        },
-        {
-            "id": 5,
-            "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
-            "tipo": "Anime",
-            "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
-        },
-        {
-            "id": 6,
-            "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
-            "tipo": "Games",
-            "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
+          "id": 1,
+          "imagem": "https://imgs.search.brave.com/RIUpsYezwxH1U7Nppkbn97XxvFR_y_bcYK8eAVlW6U8/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9lbnR1/c2lhc3RhbmVyZC5j/b20uYnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDUvanVq/dXRzdS1rYWlzZW4t/dGVtcG9yYWRhLTIt/ZGF0YS1lc3RyZWlh/LW9uZGUtYXNzaXN0/aXItcGVyc29uXzEz/eHMuanBn",
+          "tipo": "Anime",
+          "descricao": "Segunda temporada de Jujutsu Kaisen prevista para 2023"
         }
-    ],
-    "noticias-laterais":[
+      ],
+      "secundarias": [
         {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/YbC_EL_o0ZcCMf068loNRWl72mz10jKOkkE27yfibT0/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9zb21v/c2t1ZGFzYWkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL3BvcnRhZGFf/a2ltZXRzdS0xMDcu/anBn",
-            "tipo": "Anime",
-            "descricao": "Kimetsu no yaiba ganha imagem promocional da terceira temporada"
+          "id": 1,
+          "imagem": "https://imgs.search.brave.com/5HTHix0JN2jAn1X0oZ9pXlx2WICgvwYQ8l2uJbhL-Kg/rs:fit:1200:670:1/g:ce/aHR0cHM6Ly90aGVj/aW5lbWFob2xpYy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDQvdG9reW8t/cmV2ZW5nZXJzLS5q/cGVnP3Jlc2l6ZT0y/MDA",
+          "tipo": "Anime",
+          "descricao": "Segunda temporada Tokyo Revengers"
         },
         {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/MoC8RtW4VJEleThiYf1ON4ktsvtg-PgySGQ_xcyE6ts/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8z/UXFYUm84d2l1by9t/YXhyZXNkZWZhdWx0/LmpwZw",
-            "tipo": "Fimes",
-            "descricao": "Homem Aranha sem volta para casa é indicado ao oscar"
-        },
-        {
-            "id": 3,
-            "imagem": "https://mundoconectado.com.br/uploads/2022/03/16/23924/guardioes-da-galaxia-vol-3-imagem-reproducao-marvel-studios.jpg",
-            "tipo": "Filmes",
-            "descricao": "Guardiões da Galaxina volume 3 - Previsão de lançamento em Maio de 2023"
+          "id": 2,
+          "imagem": "https://imgs.search.brave.com/bLpkvI664mB_ZC8H8WuhpszuIDr2B-C4O9EgBAjqWlk/rs:fit:1200:1200:1/g:ce/aHR0cDovL2hkcXdh/bGxzLmNvbS93YWxs/cGFwZXJzL2ZpbmFs/LWZhbnRhc3kteHYt/cHM0LW5ldy5qcGc",
+          "tipo": "Games",
+          "descricao": "Melhor maneira para subir de nível no FFXV"
         }
-    ],
-    "noticias-principais":[
-        {
-            "primaria":[
-                {
-                    "id": 1,
-                    "imagem": "https://imgs.search.brave.com/RIUpsYezwxH1U7Nppkbn97XxvFR_y_bcYK8eAVlW6U8/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9lbnR1/c2lhc3RhbmVyZC5j/b20uYnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDUvanVq/dXRzdS1rYWlzZW4t/dGVtcG9yYWRhLTIt/ZGF0YS1lc3RyZWlh/LW9uZGUtYXNzaXN0/aXItcGVyc29uXzEz/eHMuanBn",
-                    "tipo": "Anime",
-                    "descricao": "Segunda temporada de Jujutsu Kaisen prevista para 2023"
-                }
-            ],
-            "secundarias":[
-                {
-                    "id": 1,
-                    "imagem": "https://imgs.search.brave.com/5HTHix0JN2jAn1X0oZ9pXlx2WICgvwYQ8l2uJbhL-Kg/rs:fit:1200:670:1/g:ce/aHR0cHM6Ly90aGVj/aW5lbWFob2xpYy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDQvdG9reW8t/cmV2ZW5nZXJzLS5q/cGVnP3Jlc2l6ZT0y/MDA",
-                    "tipo": "Anime",
-                    "descricao": "Segunda temporada Tokyo Revengers"
-                },
-                {
-                    "id": 2,
-                    "imagem": "https://imgs.search.brave.com/bLpkvI664mB_ZC8H8WuhpszuIDr2B-C4O9EgBAjqWlk/rs:fit:1200:1200:1/g:ce/aHR0cDovL2hkcXdh/bGxzLmNvbS93YWxs/cGFwZXJzL2ZpbmFs/LWZhbnRhc3kteHYt/cHM0LW5ldy5qcGc",
-                    "tipo": "Games",
-                    "descricao": "Melhor maneira para subir de nível no FFXV"
-                }
-            ]
-        }
-    ],
-    "noticias-centrais":[
-        {
-            "id": 1,
-            "imagem": "https://s.aficionados.com.br/imagens/one-punch-man-3-temporada_cke.jpg",
-            "tipo": "Anime",
-            "titulo": "One-Punch Man 3ª Temporada",
-            "data": "29/01/2023",
-            "descricao": "Finalmente os fãs de One-Punch Man ganharão novos episódios do anime"
-        },
-        {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/vJbGtVk6mlmbwVSyNSlKQad0BpZUoJ_XBxIGBXcUKJE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/dXA3cmVSVlNydWZH/bDBsbFlWMnJ3SGFF/SyZwaWQ9QXBp",
-            "tipo": "Anime",
-            "titulo": "Spy x Family 2ª Temporada",
-            "data": "27/01/2023",
-            "descricao": "Spy X Family irá ganhar segunda temporada em 2023"
-        },
-        {
-            "id": 3,
-            "imagem": "https://imgs.search.brave.com/yl42gzlVhPRUO02XIwArj9yAyPFR6yTk8jNJh8mRJGo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/YTAzMDNTcnIxS0x4/aEtlQUJXMF9RSGFF/OCZwaWQ9QXBp",
-            "tipo": "Games",
-            "titulo": "Macetes para jogar cuphead",
-            "data": "06/01/2023",
-            "descricao": "Veja alguns macetes que podem te ajudar a passar no game cuphead"
-        },
-        {
-            "id": 4,
-            "imagem": "https://imgs.search.brave.com/Gm4n83zrPlE1ANd5aDL9Hg_jQ-peg4qIaOadBRlqr2E/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/dHV0dG90ZWNoLm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wNi9FbGRlci1S/aW5nLUdlb3JnZS1S/LlIuLU1hcnRpbi5q/cGc",
-            "tipo": "Games",
-            "titulo": "Elder Rings",
-            "data": "31/12/2023",
-            "descricao": "Elder Rings foi considerado por muitos um dos melhores jogos de 2022"
-        },
-        {
-            "id": 5,
-            "imagem": "https://imgs.search.brave.com/nmu16p2q4qHx6XkdLUi1nI4V0FrcARvHPsn2Bfn4E0A/rs:fit:280:158:1/g:ce/aHR0cHM6Ly9zbS5p/Z24uY29tL3QvaWdu/X2JyL2dhbGxlcnkv/ai9qb2huLXdpY2st/L2pvaG4td2ljay00/LXRoZS1jYXN0LW9m/LXRoZS1hY3Rpb24t/c2VxdWVsX3Zwcjku/MjgwLmpwZw",
-            "tipo": "Fimes",
-            "titulo": "Jhon Wick 4: Baba Yaga",
-            "data": "10/01/2023",
-            "descricao": "Jhon Wick 4 ganhou seu primeiro trailer"
-        },
-        {
-            "id": 6,
-            "imagem": "https://www.oficinadanet.com.br/media/post/43247/750/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes.jpg",
-            "tipo": "Filmes",
-            "titulo": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
-            "data": "26/01/2023",
-            "descricao": "O filme será lançado no ano de 2023 com previsão para Novembro"
-        },
-        {
-            "id": 7,
-            "imagem": "https://imgs.search.brave.com/hX400TlV5aMfal_hehKwwN2iAuloYcB72_r3HlsTAIU/rs:fit:1200:744:1/g:ce/aHR0cHM6Ly9kMnMz/MmFkazdwdWZzaC5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8xMC9zdXBlci1t/YXJpby1icm9zLW1v/dmllLXRyYWlsZXIu/anBn",
-            "tipo": "Filmes",
-            "titulo": "Super Mario Bross - O Filme",
-            "data": "01/01/2023",
-            "descricao": "Super Mario Bross irá ganhar um filme em 2023"
-        },
-        {
-            "id": 8,
-            "imagem": "https://imgs.search.brave.com/236peakQcp5Mu_tj7fEYWWf0aQ2Vwyfv4F1-_SpI7uI/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9qdWdh/bGlhLnVuby93cC1j/b250ZW50L3VwbG9h/ZHMvbG9raS1uZXct/cG9zdGVyLWZvci10/aGUtbWN1LXNob3ct/cmVsZWFzZWRfejky/dy4xMjAwLmpwZw",
-            "tipo": "Serie",
-            "titulo": "Loki",
-            "data": "20/12/2023",
-            "descricao": "Veja quais foram as opniões dos fãs sobre a série da Marvel"
-        },
-        {
-            "id": 9,
-            "imagem": "https://imgs.search.brave.com/wRs11u1aT677okFk5H76JImbI4mTwSDjtjnSEiOs1VU/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vdmljaWFk/b3MubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAzL1Jv/Y2tzdGFyLUdhbWVz/LTEuanBnP2ZpdD0x/OTIwJTJDMTA4MCZz/c2w9MQ",
-            "tipo": "Games",
-            "titulo": "Possível data de lançamento de GTA 6",
-            "data": "24/11/2022",
-            "descricao": "Documento da microsoft releva suposta data de lançamento do game"
-        },
-        {
-            "id": 10,
-            "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYYGBgZGRgcGBgaGhgYGRgaHBgaGhgaGBocIS4lHCErIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzQrJCsxNDQxNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKgBKwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAECB//EADsQAAEDAgUCBQIFAgUDBQAAAAEAAhEDBAUSITFBUWEGInGBkRMyFKGxwfBC0QcVUuHxFnKCIyRikrL/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQBAAX/xAAnEQACAgICAQQCAgMAAAAAAAAAAQIRAyESMUEEEyIyUWFxsRRCof/aAAwDAQACEQMRAD8AQuhzSl1C4yu7Iik+GEJeWFQUcNvxQcEuuVHSdCIpsDt0UW4mVYJRdlGoRFvVB0UtywDZRUqMmUalZtEV44s1B0UVtflFXLQ4Qh8Ktf8A1IRqSoyjt13m7K3eHr4FsE6pDd4WMxhKfxL2kjYjQrJfJaNWmehXTGOgaGZSW5w8NezfkwEksL54eMzuVb2VQ/KeQEt2nQUdsCuabg2JgdJP6qtX9y0HKDJ51nVO8cxHQtBgeupVXsKWeoANif5PdHFeRrfgeeH8INR2Zw07r0KhhbGtAgIPDLcMYABwEyZcobsOqRFWs2DhDPtG8Iq4rShX1lzCRF+FZ0RLKQAQv1VIyrKywqC20B0WNojkLTKqnzCJlcqBYBWoAqreIcKyjO0aDeOPRW6r1Q1Zgc0g8jVd07R1WqZ5iabSZafZNbIte3K10kbg6HQ8dUFiFAsqOaOsjoVLbOa8gxlqNj/yCdfTJ3HtF1wimICKxNghRYSNAiMT2TWJWii+IqfmQNxQljR3CZ+ItHICpW8g9Vr6FvssNnZNyD0SfHbOAIRlve+VoUd7UzESgoboFw+18sFGWlq0FRXFUNbK3TuwWErjlQ4ZSZHCFuWDYIGleS1DvvfMPVcc2gvEqIDFUH7q4YhWaWb8Ks/QRpANpDpzSCVt9qS0ke6FfcyJ5TewfmYfzUbGIr5cQSFpl3lW737igWiUzimgbDn3Rcu7e6IBlBsMKYNlq7ijrORd6koi3uwHghKyyFum0ouKZtlpp4kCTPRKawDnkoIvIRGHv1WVR3I2NCrBZ1z9PfsUlvKcahS4fdFtN4mCIIPTv+SGSvYcPsR4y8A5P6jq4b5fU9eyn8PAB7f0/cpPcvE6GRydye6beH3w8fp/co0qiE3cj0Sm/QBdCUNbAu9N0zYwRrolIoIDTceq4dbkqevdgaSFGy6byVjo1WRtpwtspiV04jcLGvXI4IbT1kIh4Ea7oX8RG+ykF01daMpgz2a6bKB790RVeDxqg3ysYSKT4nb55G6X0NcjxoZLT6giPkFMfFDhOv8AwlFhUhpB1GcT8GY+AnLonl9j0vCXS0HqiMTQ+D/aPREYnsnCCkeJxqktCTA7p/4hb5krogAj1WsW+xtbWJ8pRNfDySCpmXzAxuoUjsRZl3CAPQvv8NJZp+i4tsNIpkduiPfiLMp1CFGKsyOg9Vx2gEUMjeqBuNRtqEfQrioNOSoLyiWuA6gojm9AFhXzuynhFVKTQSgcFdlquXF1cnO71XNguNqx94esmvfBE6cp9/lTWkxpKAAFJ0zELh/iJoPVL4D0kkLMWs4eRpslTaUEqy16rajmlvKX4nh5a8QN0EnxdASQqNAnZaFFzTqnTbLIJKgfTB1lEnaBoGdh0iVE+gAITR9cBiUm4zOWJs5nDqOkqKiYKZZJCG/DarUzGafcTouLiQx8Tq0fEiUdSsNJTGnhTXsIPIhZqwo2UgVSdBoP5yrN4Vp5n+m5OyrVagWPcw7tJBVt8KW80nu2Ry+oyP2Lc/H6dLytgkd/5CGf4ra7cR6cfmq1+DaXEkTJ7kri6s6I+97Wnu5KVdDt9lh/zim/ZwUzboHYqmG2o8VGn3/dGUGFn2kkIZJBxky4UrvRcPvSlVo5zhopatJzRKCxoVdYo1glxS3/AKtp7a/CCrMDzr8Jfcfh2mDE8wCf0RRSFSbLAzxZ0AU7PFDH6OEdxKr9oLZxhr2A9D5SfndHCzaOP0j2WtpaoxJvdg3i4DK142KrVG4hkAalwg+g0/dW7HbbNaHTaCqnhFsXva3jU/An9k2FcRWS+R6rgn2NnoJReKbBB4IfKEZimycydFL8SOjVVtlclWTxKqtbDVaAwkVXHSTCypXdIElZTiVzcDzBckA3s1eVXBuhKGpVjlIndTXuyjwu3L3tYNSSuYcdosvhi1JAlM8VtQSOwTFuCPoMaRrpr2SLEq9QGS0qd5G3oqWFKOyv2NAiu4KWphziT6qa2uB9Qu5TVt63smJ2Kca0Q+JGudq3kqt3Fo+BqVZsSmQOEJUpjRY7Q5KLRDgQc17cx5V0vKTTlJ4VVY7KQY2Xd5jkiAgnFyVi20mM8Uh4AbqdFzStGtbqg8Bug6S4qPGcSh0NQbuhiiq5MkxSm0MhVzJlMqfELpxgpe+uSjjFi5pDBl1wnlnbh7FVmtT7CcQy+U7JeS0viBGr2NRbHIubK5gnsCT7BG/j2ZDqkVjdNfVLOHgt+df2S4OTsZFLkgPEMHd9Ntc7vMkdnGAfcQrHgVENoack9IPHKGxe6Ls7ONgOAAfLHwj8KoRSDXgyNxyCdhHXUJrl8aKHD5WB1bJ7wcnlHJgAD3BPxulzPDbw4vLg5x4c2I9A6FebZpa0AtGg0bwwdO7u65rWrX8D8lilRrin2efXHh14Gu2n9IHPXdQUrSowwdp0/sQr4/D2Dr8koR9mydR8oubfZntpdA/hpnmLTt3TzGKAyADk/KAwpmV/qnV/TzMnogkrQcdM8/uLR5LgI95AHp1WUcGe8BoMGdXCJMj8lcHUGluokoZ1szkfqujJroxwT7K87wi2NahadNSQTI6ACU2tsOLA0E52/wCtsCOoMzHvCd2Nuwfa0T1jX5RVelOrdHf6uvY9QslJy7NUVHoRX9EGi9sEeXZ0E/lukGA4cGxUEfeWkf8AxcIH5n81a7lujgekEctPbsVX/DhIztI01MdwN/kLVLTRzj8rGeA4i1ji0kSNF34hx1mgBVafhjz5gSCefVc1MEcQDJMbyrXlj0iBYpG8br5myq9bO1TzEKcMDeUlZRIKywGmbuHxqth8kKO62C5pO1C1AtE959qef4dWwfctngSkd0fKrZ/hjRmo93RDPUWHiVyR6xiDGFkKq4hZMcCNEVeV6jnloPlCSVHvzkE6KdFyRScTtcleBsV0QnGOWwLwUq+geqKwHEa31scjXndJqleVY/FN6xlIARqqXRvAJJRJtgNJEt5eEiErzknddtfJJ6rA2D7ohL7G2D54cAuW2r3VBI5TfCnsEbbJi5zA4FLemVQjaEmIWZMNASm1w1zqwYr0Mh1UVnQaKueF0ZbNnjTI2eGgBslWM4OabcwHqryy6zIXEw17COyKxUsao8sq3b4iSu8NuSyqx3R7Z+RK3f0sryIQJdB0WpIT0ekXOFve81GwA37s2gI4ITK0qCcx3JkfESorDEDWoMM6Fgn/ALhoZUFzUIIOgk8dP4FO0y5O1ZYWVARpt1Ub3hJWXpA3XNa+DQST7LmwkhjcXQCWurOe6GtkJca5qHeB0H7opl6Lds7g87rlZroeYbawZjbkplU1YRyqxbY5mBIOh4IiEacXhhkj+y5sHiGMpgb+6HL2HQoBmPNecgMuPYri7ochxQsNIa0HBp0Mo/8AECFUba/LTld8pn+LBG66zqTC758g/B91BTsQwPcBq4GeMoifkoZtWZTXEq7WUqj3GIYZ+NFkdmN0Vq5vmsDQf5oura8a5hVSvrvPl7KcXoYAFb7WiD3vl+i72+GMeyTysreHmRICq9t4oLSBwrhY4mXgdCFkk4jYuMjzfG7fI8t6FBUGq1eLLTUvhVu3pmNkUXaJ8seLO6zCQANyvSfDduLWk0ncgH3jVVTw9h2eoC4aN1909x+8l7KbTo3dFONxo7Dp2yet4gIe4lvpCCffOnNGiJubQCmHwk91djJA3UrVaLlLVhtN31CeSlVWzeCUThr3NIPXdNvqMVOOKa2TZZOzze/xJ9QAE7IGVkLqnTLjAXUkBtsIaIYCtF5hNbfDvKJRAw8BKlmjEph6Oc/0B4K5+fmFaWMlDYVbtawmNdVK93RLcuWxqxOD4jBrYCmt2eZDUhLVxbXoBIK3G4/7Byxyl9RuxwHKgrvMrGPaditP6quOKEumRZZzh9olRxWxe55ISl2GvnZXxzGrG0WdE1eniiN5ZPwI8Fun0G5XTkJ+DymlS9zlxGwyx6aqe6tWFuyAyAExyFJnxKL0WenyOUaZM15lLrmoXPgzDY0790bROoKivqcOPQ6qZdlN6J7YNjTdEVQCNVV7u7q0nN8wymJkA6TqVaLayrPbMsPlkd+wPG6ZTSBtdMX/AEiD5Tsp6VBzjBiAjqdjWmPpg+XNoRzxJ5UtG1qw6Ke0zJAmOnVA9hxr8nVvasYJG/VdXDguxh9d3DG+XNuTr09UhxmrWpljQWFzyQGxOg3O88t+VlNhcoo7uA0nRd2ryWk9EIylUB88bToCONZR9rSys7uKyS0cnsNpuho9kk8RXlWrTDA0ho+5x3dGw9OU3YRIB257IXxZdspMDRzsjxRXYrK3VHnTnkGJW/qOcQNzwo3ukkqWycM7Z2lVpkTSOxScHQdxC9IwN4yN9FUMYtslRpGxAVjwR8gBBLY/C67DL8B5yoWnh7QNl3fuLXEt3UFO6c4ZVyhLwKnkVtsa0XNpsJA17IGjaue8vduUyw+zc+G8pqyyyENdpKtjjpfLsilnv6rQtxK4H0MswqexomSV6H4lwNppDIDm/VeeX+F1abwwggnZJXp1Jtpj/wDKcaTQxFy0N9FG3EQll9Yvpxn5QWdU48EUhOT1EpPQruAJMJhglCZcUqGqsFkzIwBeXmlUaPW9JDlkt+Biyoum6mEB9TVF29TUeqhZ7aaLVZYeBbugSTKRstXtcM40JTjDL4SWkwOAnFS1a9gIbqNiU6m1RF7i5OxHc0srcw6JDOpPUq2VbU/TcTsqm8wSgloowNOyRtwRymNpd5gQd0iqPU1vVgosWVxkmdnxRyQaYfUrEFbbXO6CrVRPqjajhlAG5XpymkrTPF4NJ2uiajULzCYW+HB59lBZW2RmYovBbvzuUmSbkwYRURHXpuY9zHbg/PT8l1XIdlPTRNvElFrmioPuaQD3advg/qkjUtDkyS4sWvZlcJBG/T0KUMN5ay2m4vZDmiRmyh0axuCIEHUDVPbeojGPA31TIyrs1xUis23iW8pCM4cA0Nh7AdBzIgk9yVMPF17rBYJ6MPPSXKyOyPiWgx14W2BjTo0Tyu5IL2kVf/MMSeQWve7yOb9rGtyu3J0AnQa7iPVOMEwb6XnqONSs6JcSXZQBAAJ1MDRNxVkQBHotZoQynqkasai7BMQAiOdkOXbDgBbqyTJUFd0COT+qWbZBiFZzWOc3cEfqq3jF6+uGkjZG4nihY59IgaEZpPMAn9YRFEse1mZgaXDynr6zsq8Sio7ZFlU5SfFFTqUS3cI7CMPc97TxITbFrVuQaQUf4XDWt13VCxqyZzfRF4wIYaY7fst4NcnJKO8QYca4aRwt21sGBrI1RRwrydLM+0GYbbOe6XbIu6tGsIPCJoPDG+yreMYtmJAOyohC2S5pPj+2NMFxfLceacmmvAVwxUfUa36f3aEKreDLZla3fsXku15B4TPBXPoVCKzpjboAhk1JtrtGQi4pKXT/AODGjWqMqNbWIjSP90t8X1WvqMLBmLd4TLEqLbsyw6NG45VbwBgpXLmPdJBIE9EEX58rwMkn14fkVYlWbWqMYWkQYIKMd4bp/wAKzxQzNct+lGaBshatO7kpt3FboX02qsoNqwF4lWHKDsq1Ja49irRgtMubJXj5ouWz3/SZowtMHrtgLq3fsmd/QGQwg7ehlaCUj22W+/FbCKF1FQFegYBWDmO/nC8zH3tPGYfqvQaT2026chOitkbtp/sKxRwbRIG5K87uHeYjurBdYnnOWdBKr97TOYnhKyLVlPppJNoGedVKuLVmZ8JvdWoDNOiWotlEs0YtpitjgXBGsfDgeEqsQS9We0tmuIB5IVi+MUmeZllzb49WaxK8hgA6KHw/nc86H4XotrhFLI2WtOnQIinbUmbBo+EvloXw2VG4sXljpGkEme2qrgMGE3/xI8R5A2jTMbOeRyJ0b+SWXrNA4cgFZT7CqtBDKYjRdCm5Lba8LTqU0Zdg8ombF0aNF5UlG0fwpGXQ6rG3YmAhGWTUrZw3WPZwsN6NkNc3wA3WUY5MjvKgEfmh7BuZ+d2zft9eqAqVS8knb9eyIdcZW5RoP6ncD+57LqBW2V+4w41bqo52jGuDnHr5QYCe1qZLC3LBcIAjVgEZPflcZwwgmOrWSCZ4c8degRzGthg1c4+Yu233lG5N6QUYqJXK9yXt8wh7fK8dxpK5sbksKPxuwyuztESIeJmf9Lh+nwk8T6q708nKOzzvVRUZ2vJcLG8BGqNp02uJd8KlWt8WmCnuH3/dUx2SMOv7nKxypNeoTJVtv252wOVX7rCnhpKPlGK2CoSbug7/AA9xb6VwWudDH/Er0S5thcB7wdIMey8XsmuFQCNZhemW2MuoUix4guGndJSfa7GTaun0CYV4mFuXMcCRJAK3h+Hm9q1KoJaNhBXbvDjDbmodXnze658JYgaAc2JBOnqjpNOS7FXTUZdAlifo3MVCTBjMVbXYnSOxCQYlRD353CMxhSDDDxtwsk4vsZCLjvx4PL8Qp5XuHdWbB3QwJDjbpqEoqzvIaAvNluKPSj8ZMe1qnVC1a8iOiCddErGVRIS+h3YyOHlzM4KkpYk9wawnUCFYcKph1L7dIS9mFNLyY50XOL8D4zilT8C2q0sMzuiaRa4aonFcP0AgpHUeWGNl0osXzSlaDG2eV+YKe8q+T2QbMQ0QOIXhhDFeDpzvZzYVPOU5beZYMqtWriBm6rt12nzi9WJhJVoup8UvygAlB18eed3H5VRfeQuRUe/YadToEEcd9HSyqPYZ4wk1STyxhHplCsdu/PRpnqxn/wCQkuMsD2MJ1LWhhPURof0+Ex8O1s1FreWDKfbRbL6mr7fyiOvShDioWpzXagq9rylmtENO86qdl4wcoJ1IhRlhXaOthlTEeiDqXRdudP5soLjyjueF1aNgy4gHeT/SOw5K7SCScg5jSYEOnhjdXnuf9IUtdjmFsuGYahjZAZ+5d3UQumM1bI6zqXHqT119ETZWTnuzudkJmBuTpqdChsZVdBmHYcID3QXGZzEaTtE7nuUzqVmM2MRILQNCRySOUFchlJs1NZE5pOvHOx7KqYpjWfyMlrBwdHO9Y47LYRcnoXOcYq2H45i7XS1hIk+YmI9GwqxSq+cHuu2y4yf9lKyi0mYC9DHHj0edkycnsKrUeQtW9ctW2VSAe/wVtpH9Q+E9tXoR/I2w26L3hqsV8GhkdlXMGqUqb8ziY6xsmmKXLX6scHDqDKlzcnJFeDiovYutrNoP1CNGulM/EtdtR1JrOg1C0+j/AO2PdTYVh/mpkp+FpLk/BLmi3JRj5HtF7xRLXbBu6Et7UNYXgd07+jma9nbT4SzwyCQ+i/dpI9RwVnuPaXkojgSSb3X9El7a/WoZmfcNR7KOzuIY3NvGqa4XS+m51M7HZQ18MGYx1Sm3Y9KKVePB4jf1cz5XNq9QFcgwl8dUBe7Gn1Fui4lB27iSUfRZokT0V4VydnpHhsB9uBOsfCcNsAGNg6yvO8Kxh1KGgaeqtrMb4I4/hXRmqDlileg6rbh7y2dQAqH4tpFj4VgfjGRxeSYOyrmOXgrPkLnkVGrC7ELa5C6q1swXNZiBBMwEcIqRNmuIxFwC0NCidSJIA1JXVraOJl3lHU/2RjqjWCfz6qucXKvwSwyKKflkLbQCC6D2491K8hzTG+wjoEE+o555Df5uuqen7iZ/JckoqkLk3J2x1EsadwWgHvAiVHgVY06zmEwHajujcGpNdTcwkZv6ZmNdY9e6X3dAhwj7mGWnr/sVHLUmi+HyimWWoJ1C4A0K1YVw9gd8joeQin04Shguc3sosqPqwEtuq2h11XHC55lxO+sNHdSvAaBI1HyXRrJ6T0UVNmb0Gg7nmUTa0Whwc+OwmAI50KxsJLwZaMzOGYGZ02AHzomd9iRptOcNiTl5d6DotMu6dJpqPc18bAbk66AHboqnfX76j87jvMdGgnYIseNze+gMmRQX7Or++fV+52g+1vA7x1QzWxrueZXLDP8AdYNdtO+yujFRVI8+UnJ2yZtQaSI6dFOP4NUNHA6arQlu2o6f2TEA0FtMfzSFOx2h3j+cIFladv7fspWP+enHuUSYDiFMjp8QumaH99VB9TtHprK7+t6T15W2ZQxZir2ty5szeh/kqxYVjdJxAechAEE/af8Ay491TQ+ep/L9VqImZhY4pqjYycXZ7dZ0w4B46JNirPo121B9p0cvN7XEq1L7KtRg4AeQP/rMJofFdZzSyoWVGnkjK8e4AH5FL4PwURzq9noN8Za2o3hH0a4LQeoVU8P46x1Mse7LxJmPmIS3/qJv9BJbwQNx8pb0xqprs8sWQsWIQAuyZuUe1YsU2X7Hpem+qOgiadV52JJjidlixI8lINdYiAAMxcRxwEC/EidmgfKxYrY4onl5M877D7ejnbJlntv6LprGMHkbr1dqffssWJ+OCitE2XJKb2C17k+pPRQCk46u42WLEYomgR/wFqpc5Qe426rSxczl2E4NcuDxmMBxgajQ8RPf9U9vyx2rppvkaR5XDkz/AMrSxR5vsi3BJ8WDUXmm6Q4CfdjvQ8FMm4hI1y+zh+60sQFCBri6n+poHql75d9gMHTNx7TysWLH0Z5CPwgaACZGsazHb+BFuDKbc2WW/wBUxoO2kraxKvaD/JWb+9LzMBrRs0IJhgwdisWL0YpJaPNnJyeySY3XTD12W1iZ5FmZSd1t/EaLFi4w0KI7z1XYDh0I9gVixbRjZ0yt7eqkaVixajGSBw6/K6Dwf5otrEYJ0x7icrZJPAE/kicNtnveQ2Bk1OcEtmftIHVYsS5N0w4xVosDapOj25COBq0/9h5/IoSpZMJJLWn2CxYpkUH/2Q==",
-            "tipo": "Series",
-            "titulo": "The Boys - Terceira temporada",
-            "data": "07/07/2022",
-            "descricao": "Série evolui narrativamente ao jogar seus vilões e mocinhos no fundo do poço"
-        }
-    ],
-    "series":[
-        {
-            "id": 8,
-            "imagem": "https://imgs.search.brave.com/236peakQcp5Mu_tj7fEYWWf0aQ2Vwyfv4F1-_SpI7uI/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9qdWdh/bGlhLnVuby93cC1j/b250ZW50L3VwbG9h/ZHMvbG9raS1uZXct/cG9zdGVyLWZvci10/aGUtbWN1LXNob3ct/cmVsZWFzZWRfejky/dy4xMjAwLmpwZw",
-            "tipo": "Serie",
-            "titulo": "Loki",
-            "data": "20/12/2023",
-            "descricao": "Veja quais foram as opniões dos fãs sobre a série da Marvel"
-        },
-        {
-            "id": 10,
-            "imagem": "data:image/jpeg;base64,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",
-            "tipo": "Series",
-            "titulo": "The Boys - Terceira temporada",
-            "data": "07/07/2022",
-            "descricao": "Série evolui narrativamente ao jogar seus vilões e mocinhos no fundo do poço"
-        },
-        {
-            "id": 6,
-            "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
-            "tipo": "Games",
-            "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
-        },
-        {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
-            "tipo": "Anime",
-            "descricao": "O manga underground do motossera ganhou adaptação em anime"
-        },
-        {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
-            "tipo": "Fimes",
-            "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
-        },
-        {
-            "id": 3,
-            "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
-            "tipo": "Games",
-            "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
-        },
-        {
-            "id": 4,
-            "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
-            "tipo": "Fimes",
-            "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
-        },
-        {
-            "id": 5,
-            "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
-            "tipo": "Anime",
-            "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
-        },
-        {
-            "id": 6,
-            "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
-            "tipo": "Games",
-            "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
-        }
-    ],
-    "animes":[
-        {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
-            "tipo": "Anime",
-            "descricao": "O manga underground do motossera ganhou adaptação em anime"
-        },
-        {
-            "id": 5,
-            "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
-            "tipo": "Anime",
-            "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
-        }
-    ],
-    "games":[
-        {
-            "id": 1,
-            "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
-            "tipo": "Anime",
-            "descricao": "O manga underground do motossera ganhou adaptação em anime"
-        },
-        {
-            "id": 2,
-            "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
-            "tipo": "Fimes",
-            "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
-        },
-        {
-            "id": 3,
-            "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
-            "tipo": "Games",
-            "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
-        },
-        {
-            "id": 4,
-            "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
-            "tipo": "Fimes",
-            "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
-        },
-        {
-            "id": 5,
-            "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
-            "tipo": "Anime",
-            "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
-        },
-        {
-            "id": 6,
-            "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
-            "tipo": "Games",
-            "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
-        }
-    ]
+      ]
+    }
+  ],
+  "noticias-centrais": [
+    {
+      "id": 1,
+      "imagem": "https://s.aficionados.com.br/imagens/one-punch-man-3-temporada_cke.jpg",
+      "tipo": "Anime",
+      "titulo": "One-Punch Man 3ª Temporada",
+      "data": "29/01/2023",
+      "descricao": "Finalmente os fãs de One-Punch Man ganharão novos episódios do anime"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/vJbGtVk6mlmbwVSyNSlKQad0BpZUoJ_XBxIGBXcUKJE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/dXA3cmVSVlNydWZH/bDBsbFlWMnJ3SGFF/SyZwaWQ9QXBp",
+      "tipo": "Anime",
+      "titulo": "Spy x Family 2ª Temporada",
+      "data": "27/01/2023",
+      "descricao": "Spy X Family irá ganhar segunda temporada em 2023"
+    },
+    {
+      "id": 3,
+      "imagem": "https://imgs.search.brave.com/yl42gzlVhPRUO02XIwArj9yAyPFR6yTk8jNJh8mRJGo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/YTAzMDNTcnIxS0x4/aEtlQUJXMF9RSGFF/OCZwaWQ9QXBp",
+      "tipo": "Games",
+      "titulo": "Macetes para jogar cuphead",
+      "data": "06/01/2023",
+      "descricao": "Veja alguns macetes que podem te ajudar a passar no game cuphead"
+    },
+    {
+      "id": 4,
+      "imagem": "https://imgs.search.brave.com/Gm4n83zrPlE1ANd5aDL9Hg_jQ-peg4qIaOadBRlqr2E/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/dHV0dG90ZWNoLm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wNi9FbGRlci1S/aW5nLUdlb3JnZS1S/LlIuLU1hcnRpbi5q/cGc",
+      "tipo": "Games",
+      "titulo": "Elder Rings",
+      "data": "31/12/2023",
+      "descricao": "Elder Rings foi considerado por muitos um dos melhores jogos de 2022"
+    },
+    {
+      "id": 5,
+      "imagem": "https://imgs.search.brave.com/nmu16p2q4qHx6XkdLUi1nI4V0FrcARvHPsn2Bfn4E0A/rs:fit:280:158:1/g:ce/aHR0cHM6Ly9zbS5p/Z24uY29tL3QvaWdu/X2JyL2dhbGxlcnkv/ai9qb2huLXdpY2st/L2pvaG4td2ljay00/LXRoZS1jYXN0LW9m/LXRoZS1hY3Rpb24t/c2VxdWVsX3Zwcjku/MjgwLmpwZw",
+      "tipo": "Filmes",
+      "titulo": "Jhon Wick 4: Baba Yaga",
+      "data": "10/01/2023",
+      "descricao": "Jhon Wick 4 ganhou seu primeiro trailer"
+    },
+    {
+      "id": 6,
+      "imagem": "https://www.oficinadanet.com.br/media/post/43247/750/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes.jpg",
+      "tipo": "Filmes",
+      "titulo": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
+      "data": "26/01/2023",
+      "descricao": "O filme será lançado no ano de 2023 com previsão para Novembro"
+    },
+    {
+      "id": 7,
+      "imagem": "https://imgs.search.brave.com/hX400TlV5aMfal_hehKwwN2iAuloYcB72_r3HlsTAIU/rs:fit:1200:744:1/g:ce/aHR0cHM6Ly9kMnMz/MmFkazdwdWZzaC5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8xMC9zdXBlci1t/YXJpby1icm9zLW1v/dmllLXRyYWlsZXIu/anBn",
+      "tipo": "Filmes",
+      "titulo": "Super Mario Bross - O Filme",
+      "data": "01/01/2023",
+      "descricao": "Super Mario Bross irá ganhar um filme em 2023"
+    },
+    {
+      "id": 8,
+      "imagem": "https://imgs.search.brave.com/236peakQcp5Mu_tj7fEYWWf0aQ2Vwyfv4F1-_SpI7uI/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9qdWdh/bGlhLnVuby93cC1j/b250ZW50L3VwbG9h/ZHMvbG9raS1uZXct/cG9zdGVyLWZvci10/aGUtbWN1LXNob3ct/cmVsZWFzZWRfejky/dy4xMjAwLmpwZw",
+      "tipo": "Serie",
+      "titulo": "Loki",
+      "data": "20/12/2023",
+      "descricao": "Veja quais foram as opniões dos fãs sobre a série da Marvel"
+    },
+    {
+      "id": 9,
+      "imagem": "https://imgs.search.brave.com/wRs11u1aT677okFk5H76JImbI4mTwSDjtjnSEiOs1VU/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vdmljaWFk/b3MubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAzL1Jv/Y2tzdGFyLUdhbWVz/LTEuanBnP2ZpdD0x/OTIwJTJDMTA4MCZz/c2w9MQ",
+      "tipo": "Games",
+      "titulo": "Possível data de lançamento de GTA 6",
+      "data": "24/11/2022",
+      "descricao": "Documento da microsoft releva suposta data de lançamento do game"
+    },
+    {
+      "id": 10,
+      "imagem": "data:image/jpeg;base64,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",
+      "tipo": "Series",
+      "titulo": "The Boys - Terceira temporada",
+      "data": "07/07/2022",
+      "descricao": "Série evolui narrativamente ao jogar seus vilões e mocinhos no fundo do poço"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
+      "tipo": "Fimes",
+      "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
+    },
+    {
+      "id": 4,
+      "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
+      "tipo": "Fimes",
+      "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/MoC8RtW4VJEleThiYf1ON4ktsvtg-PgySGQ_xcyE6ts/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS8z/UXFYUm84d2l1by9t/YXhyZXNkZWZhdWx0/LmpwZw",
+      "tipo": "Fimes",
+      "descricao": "Homem Aranha sem volta para casa é indicado ao oscar"
+    },
+    {
+      "id": 3,
+      "imagem": "https://mundoconectado.com.br/uploads/2022/03/16/23924/guardioes-da-galaxia-vol-3-imagem-reproducao-marvel-studios.jpg",
+      "tipo": "Filmes",
+      "descricao": "Guardiões da Galaxina volume 3 - Previsão de lançamento em Maio de 2023"
+    },
+    {
+      "id": 5,
+      "imagem": "https://imgs.search.brave.com/nmu16p2q4qHx6XkdLUi1nI4V0FrcARvHPsn2Bfn4E0A/rs:fit:280:158:1/g:ce/aHR0cHM6Ly9zbS5p/Z24uY29tL3QvaWdu/X2JyL2dhbGxlcnkv/ai9qb2huLXdpY2st/L2pvaG4td2ljay00/LXRoZS1jYXN0LW9m/LXRoZS1hY3Rpb24t/c2VxdWVsX3Zwcjku/MjgwLmpwZw",
+      "tipo": "Fimes",
+      "titulo": "Jhon Wick 4: Baba Yaga",
+      "data": "10/01/2023",
+      "descricao": "Jhon Wick 4 ganhou seu primeiro trailer"
+    },
+    {
+      "id": 6,
+      "imagem": "https://www.oficinadanet.com.br/media/post/43247/750/jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes.jpg",
+      "tipo": "Filmes",
+      "titulo": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
+      "data": "26/01/2023",
+      "descricao": "O filme será lançado no ano de 2023 com previsão para Novembro"
+    },
+    {
+      "id": 7,
+      "imagem": "https://imgs.search.brave.com/hX400TlV5aMfal_hehKwwN2iAuloYcB72_r3HlsTAIU/rs:fit:1200:744:1/g:ce/aHR0cHM6Ly9kMnMz/MmFkazdwdWZzaC5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8xMC9zdXBlci1t/YXJpby1icm9zLW1v/dmllLXRyYWlsZXIu/anBn",
+      "tipo": "Filmes",
+      "titulo": "Super Mario Bross - O Filme",
+      "data": "01/01/2023",
+      "descricao": "Super Mario Bross irá ganhar um filme em 2023"
+    }
+  ],
+  "animes": [
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+      "tipo": "Anime",
+      "descricao": "O manga underground do motossera ganhou adaptação em anime"
+    },
+    {
+      "id": 5,
+      "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
+      "tipo": "Anime",
+      "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
+    },
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/YbC_EL_o0ZcCMf068loNRWl72mz10jKOkkE27yfibT0/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9zb21v/c2t1ZGFzYWkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzExL3BvcnRhZGFf/a2ltZXRzdS0xMDcu/anBn",
+      "tipo": "Anime",
+      "descricao": "Kimetsu no yaiba ganha imagem promocional da terceira temporada"
+    },
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/RIUpsYezwxH1U7Nppkbn97XxvFR_y_bcYK8eAVlW6U8/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9lbnR1/c2lhc3RhbmVyZC5j/b20uYnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDUvanVq/dXRzdS1rYWlzZW4t/dGVtcG9yYWRhLTIt/ZGF0YS1lc3RyZWlh/LW9uZGUtYXNzaXN0/aXItcGVyc29uXzEz/eHMuanBn",
+      "tipo": "Anime",
+      "descricao": "Segunda temporada de Jujutsu Kaisen prevista para 2023"
+    },
+    {
+      "id": 1,
+      "imagem": "https://imgs.search.brave.com/5HTHix0JN2jAn1X0oZ9pXlx2WICgvwYQ8l2uJbhL-Kg/rs:fit:1200:670:1/g:ce/aHR0cHM6Ly90aGVj/aW5lbWFob2xpYy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDQvdG9reW8t/cmV2ZW5nZXJzLS5q/cGVnP3Jlc2l6ZT0y/MDA",
+      "tipo": "Anime",
+      "descricao": "Segunda temporada Tokyo Revengers"
+    },
+    {
+      "id": 1,
+      "imagem": "https://s.aficionados.com.br/imagens/one-punch-man-3-temporada_cke.jpg",
+      "tipo": "Anime",
+      "titulo": "One-Punch Man 3ª Temporada",
+      "data": "29/01/2023",
+      "descricao": "Finalmente os fãs de One-Punch Man ganharão novos episódios do anime"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/vJbGtVk6mlmbwVSyNSlKQad0BpZUoJ_XBxIGBXcUKJE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/dXA3cmVSVlNydWZH/bDBsbFlWMnJ3SGFF/SyZwaWQ9QXBp",
+      "tipo": "Anime",
+      "titulo": "Spy x Family 2ª Temporada",
+      "data": "27/01/2023",
+      "descricao": "Spy X Family irá ganhar segunda temporada em 2023"
+    }
+  ],
+  "games": [
+    {
+      "id": 3,
+      "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
+      "tipo": "Games",
+      "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
+    },
+    {
+      "id": 6,
+      "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
+      "tipo": "Games",
+      "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
+    },
+    {
+      "id": 2,
+      "imagem": "https://imgs.search.brave.com/bLpkvI664mB_ZC8H8WuhpszuIDr2B-C4O9EgBAjqWlk/rs:fit:1200:1200:1/g:ce/aHR0cDovL2hkcXdh/bGxzLmNvbS93YWxs/cGFwZXJzL2ZpbmFs/LWZhbnRhc3kteHYt/cHM0LW5ldy5qcGc",
+      "tipo": "Games",
+      "descricao": "Melhor maneira para subir de nível no FFXV"
+    },
+    {
+      "id": 3,
+      "imagem": "https://imgs.search.brave.com/yl42gzlVhPRUO02XIwArj9yAyPFR6yTk8jNJh8mRJGo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/YTAzMDNTcnIxS0x4/aEtlQUJXMF9RSGFF/OCZwaWQ9QXBp",
+      "tipo": "Games",
+      "titulo": "Macetes para jogar cuphead",
+      "data": "06/01/2023",
+      "descricao": "Veja alguns macetes que podem te ajudar a passar no game cuphead"
+    },
+    {
+      "id": 4,
+      "imagem": "https://imgs.search.brave.com/Gm4n83zrPlE1ANd5aDL9Hg_jQ-peg4qIaOadBRlqr2E/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/dHV0dG90ZWNoLm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wNi9FbGRlci1S/aW5nLUdlb3JnZS1S/LlIuLU1hcnRpbi5q/cGc",
+      "tipo": "Games",
+      "titulo": "Elder Rings",
+      "data": "31/12/2023",
+      "descricao": "Elder Rings foi considerado por muitos um dos melhores jogos de 2022"
+    },
+    {
+      "id": 9,
+      "imagem": "https://imgs.search.brave.com/wRs11u1aT677okFk5H76JImbI4mTwSDjtjnSEiOs1VU/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vdmljaWFk/b3MubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAzL1Jv/Y2tzdGFyLUdhbWVz/LTEuanBnP2ZpdD0x/OTIwJTJDMTA4MCZz/c2w9MQ",
+      "tipo": "Games",
+      "titulo": "Possível data de lançamento de GTA 6",
+      "data": "24/11/2022",
+      "descricao": "Documento da microsoft releva suposta data de lançamento do game"
+    }
+  ]
 }
