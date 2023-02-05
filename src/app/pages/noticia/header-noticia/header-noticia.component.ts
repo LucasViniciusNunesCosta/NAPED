@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'header-noticia',
@@ -6,6 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header-noticia.component.css']
 })
 export class HeaderNoticiaComponent implements OnInit {
+
+  @Input() titulo_header: string = "";
+  @Input() descricao_header: string = "";
+  @Input() data_header: string ="";
 
   constructor() { }
 

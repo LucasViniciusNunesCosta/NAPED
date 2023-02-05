@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'noticia-banner',
@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./noticia-banner.component.css']
 })
 export class NoticiaBannerComponent implements OnInit {
+
+  @Input() ImagemFundo: string ="";
+  @Input() TipoBanner: string ="";
 
   constructor() { }
 
