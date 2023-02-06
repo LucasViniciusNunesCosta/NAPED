@@ -4,3 +4,11 @@
     align-items: flex-start;
     margin-bottom: 100px;
 }
+@media only screen and (max-width: 1090px){
+    noticias-laterais{
+        display: none;
+    }
+    .container__noticias{
+        justify-content: center;
+    }
+}

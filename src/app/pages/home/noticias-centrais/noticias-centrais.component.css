@@ -23,3 +23,8 @@
     scrollbar-width: auto;
   }
 }
+@media only screen and (max-width: 1090px){
+  .noticias-centrais{
+    width: 90vw;
+  }
+}

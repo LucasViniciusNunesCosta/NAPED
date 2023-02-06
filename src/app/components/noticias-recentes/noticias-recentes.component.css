@@ -11,3 +11,16 @@
     justify-content: center;
     margin-bottom: 105px;
 }
+@media only screen and (max-width: 1090px){
+    .container__noticias{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media only screen and (max-width: 750px){
+    .container__noticias{
+        display: flex;
+        gap: 2rem;
+        flex-direction: column;
+        align-items: center;
+    }
+}
