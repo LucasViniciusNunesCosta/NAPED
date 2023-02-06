@@ -49,3 +49,11 @@ a{
 .card__descricao{
     line-height: 20px;
 }
+@media only screen and (max-width: 750px){
+    .card[typeCard="medium"]{
+        width: 90vw;
+    }
+    .card[typeCard="big"]{
+        width: 90vw;
+    }
+}
