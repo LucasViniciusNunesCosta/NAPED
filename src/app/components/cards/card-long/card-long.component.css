@@ -8,18 +8,18 @@
     width: 100%;
 }
 .card__imagem{
-    min-width: 200px;
+    min-width: 12.5rem;
     width: 15vw;
-    min-height: 151px;
+    min-height: 9.4rem;
     height: 20vh;
-    padding: 10px;
+    padding: 0.6rem;
     box-sizing: border-box;
     background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0) 100%);
     background-size: cover;
 }
 .card__imagem__type{
-    width: 70px;
-    height: 20px;
+    width: 4.3rem;
+    height: 1.25rem;
     border: none;
     text-align: center;
     border-radius: 3px;

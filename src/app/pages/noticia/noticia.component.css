@@ -1,13 +1,13 @@
 p{
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #C4C4C4;
     font-family: arial;
-    line-height: 40px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    line-height: 2.5rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
 }
 .conteudo{
-    margin-bottom: 101px;
+    margin-bottom: 6.3rem;
 }
 .conteudo__imagem{
     width: 100%;

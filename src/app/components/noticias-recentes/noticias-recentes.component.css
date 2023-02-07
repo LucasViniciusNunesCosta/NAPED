@@ -9,7 +9,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 5%;
     justify-content: center;
-    margin-bottom: 105px;
+    margin-bottom: 6.5rem;
 }
 @media only screen and (max-width: 1090px){
     .container__noticias{
