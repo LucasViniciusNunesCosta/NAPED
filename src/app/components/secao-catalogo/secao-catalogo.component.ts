@@ -7,6 +7,8 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class AnimeCatalogoComponent implements OnInit {
 
+ 
+
   @Input()
   secaoSelecionada: any = ""
 

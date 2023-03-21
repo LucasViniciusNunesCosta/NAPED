@@ -15,6 +15,7 @@
     box-sizing: border-box;
     background-size: cover;
     background-color: rgba(000, 000, 000, 0.5);
+    border-radius: 10px;
 }
 .banner__informacao{
     display: flex;

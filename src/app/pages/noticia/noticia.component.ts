@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'noticia-component',
@@ -13,9 +14,14 @@ export class NoticiaComponent implements OnInit {
   banner: string="https://imgs.search.brave.com/RIUpsYezwxH1U7Nppkbn97XxvFR_y_bcYK8eAVlW6U8/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9lbnR1/c2lhc3RhbmVyZC5j/b20uYnIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDUvanVq/dXRzdS1rYWlzZW4t/dGVtcG9yYWRhLTIt/ZGF0YS1lc3RyZWlh/LW9uZGUtYXNzaXN0/aXItcGVyc29uXzEz/eHMuanBn";
   tipo: string="Animes";
 
-  constructor() { }
+  noticiaSelecionada: any;
+
+  constructor( private activatedRoute: ActivatedRoute) {
+
+  }
 
   ngOnInit(): void {
+    this.noticiaSelecionada = this.activatedRoute.snapshot.paramMap.get('numero');
   }
 
 }

@@ -15,7 +15,7 @@ const routes: Routes = [
     component: HomeComponent
   },
   {
-    path:'noticia',
+    path:'noticia/:numero',
     component: NoticiaComponent
   },
   {
