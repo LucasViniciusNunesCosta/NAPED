@@ -13,10 +13,10 @@ export class AnimeCatalogoComponent implements OnInit {
   secaoSelecionada: any = ""
 
   constructor() {
-    console.log(this.secaoSelecionada)
    }
 
   ngOnInit(): void {
+    console.log(this.secaoSelecionada)
   }
 
 }
