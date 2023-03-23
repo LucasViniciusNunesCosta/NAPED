@@ -21,10 +21,14 @@ export class CardNewComponent implements OnInit {
   @Input()
   dados: any = "";
 
+  data: any = "00/00/0000";
+  titulo: string = "Titulo fixo";
+
   constructor() { }
 
   ngOnInit(): void {
-    console.log(this.dados)
+    console.log(this.data)
+    console.log(this.titulo)
   }
 
 }
