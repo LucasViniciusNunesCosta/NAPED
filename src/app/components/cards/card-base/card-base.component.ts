@@ -18,9 +18,13 @@ export class CardNewComponent implements OnInit {
   @Input()
   Descricao: string =""
 
+  @Input()
+  dados: any = "";
+
   constructor() { }
 
   ngOnInit(): void {
+    console.log(this.dados)
   }
 
 }

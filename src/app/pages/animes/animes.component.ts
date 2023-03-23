@@ -9,7 +9,7 @@ import data_notices from '../../../assets/data/data_notices.json'
 export class AnimesComponent implements OnInit {
 
   noticias_animes: any = data_notices['animes']
-
+  
   Titulo: string = "Animes"
   Banner: string = "../../../assets/images/naruto-tobi.png"
   constructor() { }

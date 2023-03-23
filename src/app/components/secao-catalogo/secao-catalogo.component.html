@@ -1,5 +1,5 @@
 <div class="catalogo__container">
   <div class="catalogo">
-    <card-base class="noticia-short" typeCard="medium" *ngFor="let card of secaoSelecionada; let i = index" [TipoGenero]="card.tipo" [Descricao]="card.descricao" [ImagemFundo]="card.imagem"></card-base>
+    <card-base class="noticia-short" typeCard="medium" *ngFor="let card of secaoSelecionada; let i = index" [TipoGenero]="card.tipo" [Descricao]="card.descricao" [ImagemFundo]="card.imagem" [dados]="card"></card-base>
   </div>
 </div>
