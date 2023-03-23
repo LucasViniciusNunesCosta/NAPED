@@ -15,7 +15,7 @@ const routes: Routes = [
     component: HomeComponent
   },
   {
-    path:'noticia/:genero/:imagem/:titulo',
+    path:'noticia/:genero/:imagem/:titulo/:data/:descricao',
     component: NoticiaComponent
   },
   {
