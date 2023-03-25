@@ -22,16 +22,12 @@ export class NoticiaComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    window.scrollTo(0, 0);
     this.genero = this.activatedRoute.snapshot.paramMap.get('genero');
     this.ImagemFundo = this.activatedRoute.snapshot.paramMap.get('imagem');
     this.titulo = this.activatedRoute.snapshot.paramMap.get('titulo');
     this.data = this.activatedRoute.snapshot.paramMap.get('data');
     this.descricao = this.activatedRoute.snapshot.paramMap.get('descricao');
-    console.log(this.genero)
-    console.log(this.ImagemFundo)
-    console.log(this.titulo)
-    console.log(this.data)
-    console.log(this.descricao)
   }
 
 }
