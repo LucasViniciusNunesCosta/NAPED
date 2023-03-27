@@ -4,10 +4,10 @@
   </div>
   <nav class="navigation-bar__menu">
     <ul class="navigation-bar__menu__list">
-      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/']">Home</a></li>
-      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/filmes']">Filmes</a></li>
-      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/animes']">Animes</a></li>
-      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/games']">Games</a></li>
+      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/'] " routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">Home</a></li>
+      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/filmes']" routerLinkActive="active">Filmes</a></li>
+      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/animes']" routerLinkActive="active">Animes</a></li>
+      <li class="navigation-bar__menu__list__item"><a [routerLink]="['/games']" routerLinkActive="active">Games</a></li>
     </ul>
     <a class="navigation-bar__menu__botao" [routerLink]="['/login']">Minha conta</a>
   </nav>
