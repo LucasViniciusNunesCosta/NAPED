@@ -44,3 +44,6 @@
     transition: .5s;
     background-color: #8257E6;
 }
+.navigation-bar__menu__list__item > a.active{
+    border-bottom: 2px solid #8257e6;
+}
