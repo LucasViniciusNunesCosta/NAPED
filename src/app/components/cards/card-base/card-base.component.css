@@ -21,7 +21,7 @@ a{
 .card[typeCard="medium"]{
     background-image: linear-gradient(360deg, #13131F 0%, rgba(19, 19, 31, 0.039) 100%);
     min-width: 21.1rem;
-    width: 28vw;
+    max-width: 42vw;
     min-height: 15.6rem;
 }
 .card[typeCard="big"]{
