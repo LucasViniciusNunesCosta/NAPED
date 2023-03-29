@@ -129,38 +129,50 @@
   ],
   "noticias-recentes": [
     {
-      "id": 17,
+      "id": 30,
       "imagem": "https://imgs.search.brave.com/MOChhqoFLmppD5jZeXpMe_Jyqm0BvknjwNAj64w_peM/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9kZTdp/M2JoN2JnaDBkLmNs/b3VkZnJvbnQubmV0/LzIwMjAvMTAvMDYv/MTgvMzMvMTgvOTA5/NDY3NTQtYTZiYi00/OThhLWEzMzYtMWUz/M2Q4YzIwNjFkL0No/YWluc2F3TWFuX2Js/b2dzcGxhc2hfMTIw/MHg2MzAuanBn",
+      "titulo": "Anime Chainsawman",
+      "data": "18/01/2023",
       "tipo": "Anime",
       "descricao": "O manga underground do motossera ganhou adaptação em anime"
     },
     {
-      "id": 18,
+      "id": 23,
       "imagem": "https://imgs.search.brave.com/LDnkpZZjO1jiasN8vWlrSKYh00ef_nCne0AVT2MmqiI/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9taW5o/YXNlcmllZmF2b3Jp/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzEyL3Nw/aWRlci1tYW4tbm8t/d2F5LWhvbWUuanBl/Zw",
-      "tipo": "Filmes",
+      "tipo": "Fimes",
+      "titulo": "Homem Aranha de sem volta para casa",
+      "data": "01/01/2023",
       "descricao": "Cena pós credito do filme homem aranha sem volta para casa"
     },
     {
-      "id": 19,
+      "id": 37,
       "imagem": "https://imgs.search.brave.com/uE_y6Ft9m9IOT0QTH0StnKDhbAEP18I2wMI3_4qJ9Xk/rs:fit:1200:1000:1/g:ce/aHR0cHM6Ly9pbWcu/cmVkYnVsbC5jb20v/aW1hZ2VzL2NfZmls/bCx3XzE1MDAsaF8x/MDAwLGdfYXV0byxm/X2F1dG8scV9hdXRv/L3JlZGJ1bGxjb20v/MjAxOS8wOC8yNi8w/ZDE2MTdhMi02YTFk/LTRkYjktODdmZS01/Y2I1YWExMDM0NTQv/ZGVhdGgtc3RyYW5k/aW5n",
+      "titulo": "O jogo gratuíto que derrubou uma plataforma",
+      "data": "14/01/2023",
       "tipo": "Games",
       "descricao": "Death Stranding fica gratuíto e derruba plataforma de games"
     },
     {
-      "id": 20,
+      "id": 24,
       "imagem": "https://imgs.search.brave.com/PjDhLspL-fIfCKMQvzVcp5xlxxOCpwYglmw77QCoUts/rs:fit:1200:630:1/g:ce/aHR0cHM6Ly9mcmFz/ZXNkZWxhcGVsaWN1/bGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzAyL2lu/dGVyZXN0ZWxhci5q/cGc",
-      "tipo": "Filmes",
+      "tipo": "Fimes",
+      "titulo": "O final confuso de interestelar",
+      "data": "02/01/2023",
       "descricao": "Interestelar: entenda o final do filme de uma vez por todas"
     },
     {
-      "id": 21,
+      "id": 31,
       "imagem": "https://imgs.search.brave.com/OCGThX8tvznhLrJabem7NtJ2AsJD1IsWbMIHjE5HFuw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9hbmlt/ZW5ldy5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvQm9rdS1uby1I/ZXJvLUFjYWRlbWlh/LTYuYS10ZW1wb3Jh/ZGEtdmlzdWFsLWtl/eS5qcGc",
+      "titulo": "Nova temporada Boku no hero",
+      "data": "25/01/2023",
       "tipo": "Anime",
       "descricao": "Boku no hero - 6° Temporada do anime ganha imagem promocional"
     },
     {
-      "id": 22,
+      "id": 38,
       "imagem": "https://imgs.search.brave.com/WlyyULnAYXshOCuN5YCpL87tdzV-GKltDKJSJzltMbU/rs:fit:1188:669:1/g:ce/aHR0cHM6Ly9jcml0/aWNhbGhpdHMuY29t/LmJyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA2L3J1bW9y/LWdvZC1vZi13YXIt/cmFnbmFyb2stY2hl/Z2EtZW0tc2V0ZW1i/cm8tZGUtMjAyMi0x/NjQwNjg4NjM2NzIy/LmpwZw",
+      "titulo": "Melhor game da franquia?",
+      "data": "02/02/2023",
       "tipo": "Games",
       "descricao": "God of war: Ragnarok - O game com melhor avalicação da franquia"
     }
