@@ -1,4 +1,4 @@
-<div class="card" [routerLink]="['/noticia']">
+<div class="card">
     <div
       class="card__imagem"
       [style.background-image]="'url(' + ImagemFundo + ')'"
@@ -9,6 +9,6 @@
       <p class="card__titulo">{{ Titulo }}</p>
       <p class="card__descricao">{{ Descricao }}</p>
       <span class="card__data">{{ Data }}</span>
-      <a class="card__botao" href="#">Ler Noticia</a>
+      <a class="card__botao" [routerLink]="['/noticia', TipoGenero, ImagemFundo, Titulo, Data , Descricao]">Ler Noticia</a>
     </div>
 </div>

@@ -22,6 +22,9 @@ export class CardLongComponent implements OnInit {
   @Input()
   Data: string = "";
 
+  @Input()
+  dados: any = "";
+
   constructor() { }
 
   ngOnInit(): void {
